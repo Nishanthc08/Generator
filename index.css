@@ -5,10 +5,6 @@
     font-family: 'Wix Madefor Display', sans-serif;
 }
 
-.butt {
-    display: flex;
-}
-
 button {
     height: 60px;
     width: 200px;
